@@ -1,3 +1,6 @@
+body{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
 .head-foot {
     background-color: #1f2937;
     color: white;
@@ -88,10 +91,9 @@
 
 .quote-text{
     font-style: italic;
-    font-size: 36px;
-    font-weight: lighter;
+    font-size: 28px;
+    font-weight: 100;
 }
 #quoter {
-    text-align: right;
-    font-weight: 700;
+    font-weight: 1000;
 }
