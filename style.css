@@ -97,3 +97,13 @@ body{
 #quoter {
     font-weight: 1000;
 }
+
+.call-to-action {
+    background-color: #3882f6;
+    width: 100%;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px 40px 30px 40px;
+    border-radius: 5px;
+}
