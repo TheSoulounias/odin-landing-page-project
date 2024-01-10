@@ -81,3 +81,16 @@
     font-size: 12px;
     color: #1f2937;
 }
+
+.quote-block {
+    background-color: #e5e7eb;
+}
+
+.quote-text{
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+}
+#quoter {
+    text-align: right;
+}
